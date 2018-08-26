@@ -1,0 +1,17 @@
+[ 
+    { "nome": "Aquario",
+        "caracteristic  a": "O Signo de Aquário é o 11º signo do Zodíaco, situando-se entre o signo de Capricórnio e o signo de Peixes, e pertence ao elemento Ar. São nativos desse signo todos aqueles que nasceram entre dia 20 de Janeiro e dia 18 de Fevereiro. ",
+        "periodo": ["20/01",
+                    "18/02"                        
+        ]
+    },
+    
+    
+    
+    { "nome": "Touro",
+    "caracteristica": "ciumento",
+    "periodo": ["21/04",
+                "22/05"                        
+    ]
+}
+]
