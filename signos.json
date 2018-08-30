@@ -1,17 +1,85 @@
 [ 
-    { "nome": "Aquario",
-        "caracteristic  a": "O Signo de Aquário é o 11º signo do Zodíaco, situando-se entre o signo de Capricórnio e o signo de Peixes, e pertence ao elemento Ar. São nativos desse signo todos aqueles que nasceram entre dia 20 de Janeiro e dia 18 de Fevereiro. ",
+    { "nome": "Aquário",
+        "caracteristic  a": " O Amado. Otimista e honesto. Doce personalidade. Muito independente. Inventivo e inteligente. Amigável e leal. Pode parecer não emotivo. Pode ser um pouco rebelde. Muito teimoso, mas original e sem igual. Atraente no lado de dentro e fora. Personalidade excêntrica.",
         "periodo": ["20/01",
                     "18/02"                        
         ]
     },
     
-    
-    
     { "nome": "Touro",
-    "caracteristica": "ciumento",
+    "caracteristica": "O Resistente. Que encanta mas agressivo. Podem parecer enfadonhos, mas não são. Trabalhadores duros. Amável. Forte, tem resistência. Seres sólidos e estáveis e seguros dos modos deles/delas. Não procuram atalhos. Orgulhosos da beleza deles/delas. Pacientes e seguros. Fazem grandes amigos e dão bons conselhos. Bom coração. Amam profundamente - apaixonados. Expressam-se emocionalmente. Propenso a temperamento-acessos de raiva ferozes. Determinado. Cedem aos seus desejos freqüentemente. Muito generoso.",
     "periodo": ["21/04",
                 "22/05"                        
     ]
-}
+    },
+
+    { "nome": "Áries",
+        "caracteristica": "O Diabo de Desafio Enérgico. Aventureiro e espontâneo. Confiante e entusiástico. Divertido. Ama um desafio. EXTREMAMENTE impaciente. Às vezes egoísta. Fusível curto (enfurece facilmente) Vivido, inteligência apaixonada e afiada. Gosta de sair. Perde interesse depressa - facilmente entediado. Egoístico. Corajoso e afirmativo. Tende a ser físico e atlético.",
+        "periodo": ["21/04",
+                    "22/05"                        
+        ]
+    },
+
+    { "nome": "Gêmeos",
+        "caracteristica": "O Tagarela. Inteligente e engenhoso. Parece estar sempre de saída, muito falador. Vivo, enérgico. Adaptável mas com necessidade de se expressar. Argumentativo e franco. Gosta de mudança. Versátil. Ocupado, mas às vezes nervoso e tenso. Fofoqueiros. Pode parecer superficial ou incoerente. Mas só é sujeito a mudança. Bonito fisicamente e mentalmente. 5 anos de azar se você não remeter.",
+        "periodo": ["21/04",
+                    "22/05"                        
+        ]
+    },
+
+    { "nome": "Cancêr",
+        "caracteristica": "O Protetor Mal-humorado. Emocional. Pode ser tímido. Muito amoroso e gentil. Bonito . Sócios excelentes para vida. Projetor. Inventivo e imaginativo. Cauteloso. Tipo de pessoa Sensível. Necessidade de ser amado pelos outros. Magoa-se facilmente, mas simpático.",
+        "periodo": ["21/04",
+                    "22/05"                        
+        ]
+    },
+
+    { "nome": "Leão",
+        "caracteristica": "O Chefe. Muito organizado. Precisa de ordem nas vidas deles/delas - como estar em controle. Gosta de limites. Tende a assumir tudo. Mandão. Gosta de ajudar os outros. Social e gosta de sair. Extrovertido. Generoso, amável. Sensível. Energia criativa. Confiantes neles próprios. Bons amantes. Fazer a coisa certa é importante para Leão. Atraente.",
+        "periodo": ["21/04",
+                    "22/05"                        
+        ]
+    },
+
+    { "nome": "Virgem",
+        "caracteristica": "O Perfeccionista. Dominante em relações. Conservador. Sempre quer a última palavra. Argumentativo. Preocupado. Muito inteligente. Antipatiza com barulho e caos. Ansioso. Trabalhador. Leal. Bonito. Fácil falar. Difícil de agradar. Severo. Prático e muito exigente. Freqüentemente tímido. Pessimista.",
+        "periodo": ["21/04",
+                    "22/05"                        
+        ]
+    },
+
+    { "nome": "Libra",
+        "caracteristica": "O Harmonizador. Agradável a todo o mundo que se encontra com eles. Indeciso. Tem uma aeração própria sem igual. Criativo, enérgico e muito social. Odeia estar só. Calmo, generoso. Muito amoroso e bonito. Gosta de flertar. Cede muito facilmente. Tende a deixar para depois. Muito crédulo.        ",
+        "periodo": ["21/04",
+                    "22/05"                        
+        ]
+    },
+
+    { "nome": "Escorpião",
+        "caracteristica": "O Intenso. Muito enérgico. Inteligente. Pode ser ciumento e/ou possessivo. Trabalhador. Grande beijador. Pode ficar obsessivo ou reservado. Guarda rancor. Atraente. Determinado. Amores que estão em relações longas. Falador. Romântico. Pode ser às vezes egocêntrico. Apaixonado e emocional.",
+        "periodo": ["21/04",
+                    "22/05"                        
+        ]
+    },  
+
+    { "nome": "Sargitário",
+        "caracteristica": "O Otimista Agradável Irrefletido. Não quer crescer (Peter Pan Síndroma). Favorece ego. Orgulhoso. Gosta de luxos e jogar. Social e gosta de sair. Não gosta de responsabilidades. Freqüentemente fantasia. Impaciente. Divertido estar ao seu redor. Tem muitos amigos. Coquete e gosta de flerta. Não gosta de regras. Às vezes hipócrita. Antipatiza com espaços limitados - apertados ou até mesmo roupas apertadas. Não gosta que duvidem dele. Bonito por dentro e por fora.",
+        "periodo": ["21/04",
+                    "22/05"                        
+        ]
+    },  
+
+    { "nome": "Capricórnio",
+        "caracteristica": " O Paciente (não no meu caso). Pessoa agressiva e sábio. Prático e rígido. Ambicioso. Tende a estar sempre bonito. Humorístico e engraçado. Pode ser um pouco tímido e reservado. Freqüentemente pessimistas. Capricórnio tendem a agir antes de pensar e podem ser às vezes pouco amigáveis. Guarda rancor. Gosta de competição. Obtém o que eles querem.",
+        "periodo": ["21/04",
+                    "22/05"                        
+        ]
+    },  
+
+    { "nome": "Peixe",
+        "caracteristica": "O Sonhador Generoso. Bom coração e pensativo. Muito criativo e imaginativo. Pode ficar reservado e vago. Sensível. Não gosta de detalhes. Sonhador e irreal. Simpático e amoroso. Tipo. Desinteressado. Bom beijador. Bonito.",
+        "periodo": ["21/04",
+                    "22/05"                        
+        ]
+    }  
 ]
