@@ -8,7 +8,7 @@ export default class ListaSigno extends React.Component {
     return (
       <View style={styles.container}>
         { signos.map((signo, key) => (
-          <Button key = {key} title = {signo.nome} onPress = {() =>  this.props.history.push('/' + idSigno) }/>
+          <Button key = {key} title = {signo.nome} onPress = {() =>  this.props.history.push('/' + key) }/>
         )) } 
       </View>
     );

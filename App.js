@@ -11,7 +11,7 @@ export default class App extends React.Component {
         <View style= {styles.container}>
           <Switch>
             <Route path='/:idSigno' component={DetalhesSigno} />
-            <Route component={ListaSigno} />
+            <Route component = {ListaSigno} />
           </Switch>
         </View>
       </Router>
