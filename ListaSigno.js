@@ -7,8 +7,8 @@ export default class ListaSigno extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        { signos.map((signo, key) => (
-          <Button key = {key} title = {signo.nome} onPress = {() =>  this.props.history.push('/' + key) }/>
+        {signos.map((signo, key) => (
+          <Button style ={styles.button}   key = {key} title = {signo.nome} onPress = {() =>  this.props.history.push('/' + key) }/>
         )) } 
       </View>
     );
@@ -22,4 +22,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+
+  button: {
+    marginBottom: 10
+  }
+
 });
