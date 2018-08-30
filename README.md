@@ -7,4 +7,6 @@ Para rodar a aplicação no linux vá para a pasta do repositorio e execute os s
 -> npm i -g yarn create-react-native-app
 -> yarn start
 
-Depois que carregar escolha o modo de vizualiazação. O mais simples e rápido é fazer a leitura do qrcode gerado atráves do app Expo.
+Depois que carregar escolha o modo de vizualiazação. O mais simples e rápido é fazer a leitura do qrcode gerado atráves do app Expo no seu celular.
+
+
