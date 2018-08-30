@@ -1,4 +1,4 @@
-Aplicação simples feita em react-natie atráves do curso do Devmedia (https://www.devmedia.com.br/curso/react/2127) com intuito de aprender react-native.
+Aplicação simples feita em react-native atráves do curso do Devmedia (https://www.devmedia.com.br/curso/react/2127) com intuito de aprender react-native.
 
 *é preciso ter o node.js instalado;
 
